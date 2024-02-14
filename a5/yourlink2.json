@@ -1,0 +1,32 @@
+[
+  {
+    "port 1": "56229",
+    "port 2": "443",
+    "start": "4.409057000",
+    "port 1 to port 2": "3879",
+    "port 2 to port 1": "241516",
+    "end": "14.538798000",
+    "total size": 245395,
+    "tsval": 0
+  },
+  {
+    "port 1": "56231",
+    "port 2": "443",
+    "start": "6.537053000",
+    "port 1 to port 2": "2006",
+    "port 2 to port 1": "49247",
+    "end": "14.538681000",
+    "total size": 51253,
+    "tsval": 0
+  },
+  {
+    "port 1": "56232",
+    "port 2": "443",
+    "start": "6.538005000",
+    "port 1 to port 2": "2772",
+    "port 2 to port 1": "134073",
+    "end": "14.538753000",
+    "total size": 136845,
+    "tsval": 0
+  }
+]
